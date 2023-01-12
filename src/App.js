@@ -15,7 +15,7 @@ const App = () => {
         <Layout>
           <div className='routes'>
             <Switch>
-              <Route exact path='/'>
+              <Route exact path='/cryptotrack'>
                 <Homepage />
               </Route>
               <Route exact path='/cryptocurrencies'>
