@@ -33,7 +33,7 @@ const App = () => {
         <div className='footer' >
         <Typography.Title level={5} style={{color: 'white', textAlign: 'center'}}>
          Cryptotrack <br/>
-         All rights reserved
+         All rights reserved.
         </Typography.Title>
         <Space>
           <Link to="/">Home</Link>
